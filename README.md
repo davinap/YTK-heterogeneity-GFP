@@ -16,3 +16,4 @@ The 'long_map_labels' file contains metrics such as the sfGFP intensities, max O
 
 
 The plots generated here, were used to make Figure 1 and Supplementary Figures S1 and S2
+The raw data used to generate all consensus files and the raw data plots in Figure 1 and Figures S1 and S2 can be found here: https://github.com/davinap/YTK-heterogeneity-GFP
