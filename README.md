@@ -11,9 +11,8 @@ Within each '...c.xlsx' file, the mean, standard deviation and number of cells p
 
 In some '...c.xlsx' files, a row has been deleted. This is the case if the calculated number of subpopulations did not agree with the other 2 replicates. This is to avoid skewing the mean of individual subpopulations. 
 
-
 The 'long_map_labels' file contains metrics such as the sfGFP intensities, max OD600, doubling time and time to midlog as an average from all three replicates. pTDH3 in YEPG was deleted due to lack of detectable growth. 
 
-
+meanflow_withraw.R - script for plotting averages of promoter expression from the '...c.xlsx' files and for plotting the raw data
 The plots generated here, were used to make Figure 1 and Supplementary Figures S1 and S2
 The raw data used to generate all consensus files and the raw data plots in Figure 1 and Figures S1 and S2 can be found here: https://github.com/davinap/YTK-heterogeneity-GFP
